@@ -1,7 +1,6 @@
-# Prompt
-> **라우터 이동 및 뒤로가기, 새로고침, 닫기 감지 코드
+# Prompt, onbeforeunload
+> **라우터 이동 및 뒤로가기, 새로고침, 닫기 감지 코드**
 
->> 
 ```javascript
 // base
 import React, { useEffect, useState } from 'react';
